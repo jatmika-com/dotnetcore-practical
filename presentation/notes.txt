@@ -5,3 +5,7 @@ proposed solution :
 - .rtf
 - office .xml
 sementara checkout .gitnya tidak terlalu besar
+
+used solution :
+- .xml
+- .html
