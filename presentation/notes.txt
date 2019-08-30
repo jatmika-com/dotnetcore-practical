@@ -1,0 +1,1 @@
+permasalahan managing dokumen di git : https://joepairman.com/posts/xml-in-git-mercurial-watch-out-for-merges
